@@ -7,7 +7,7 @@
 아래에는 프론트엔드/백엔드/데브옵스가 되기 위해 취할 수 있는 경로와 채택할 기술을 보여 주는 차트가 있다. 이 차트는 대학생들과 공유할 수 있는 것을 원했던 교수를 위해 만들었다. 커뮤니티를 돕고자 이를 여기에 공유한다.
 
 ***
-<p align="center"><b> 🎉 이 로드맵의 확장 버전을 작업중이다 🎉 </b><br>Keep your eyes on <a href="http://roadmap.sh">roadmap.sh</a> for the updates!</p>
+<p align="center"><b> 🎉 이 로드맵의 확장 버전을 작업중이다 🎉 </b><br><a href="http://roadmap.sh">roadmap.sh</a>의 업데이트를 지켜봐달라!</p>
 
 ***
 
